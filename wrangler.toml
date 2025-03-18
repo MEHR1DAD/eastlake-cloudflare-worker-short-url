@@ -1,4 +1,4 @@
-name = "cf-worker-shorturl"
+name = "shorturl"
 main = "src/index.js"
 compatibility_date = "2023-04-13"
 node_compat = true
